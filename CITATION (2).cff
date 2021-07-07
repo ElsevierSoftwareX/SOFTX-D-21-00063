@@ -1,0 +1,33 @@
+# YAML 1.2
+---
+abstract: "This paper describes a newly developed tool, called FeView, which is a Python-based graphical user interface (GUI) for OpenSees solver. FeView offers an open-source and stand-alone windows system that is very easy and simple to use. It can support a wide range of element types (46 types) and all kinds of material, connection, constraint, analysis options that are available in OpenSees. Users need to create Tool Command Language (TCL) files as per the specification of OpenSees and then FeView will visualize the finite element model and post-processing related to contours, x-y graphs for nodal responses, etc."
+authors: 
+  -
+    affiliation: "Department of Civil and Environmental Engineering, Kunsan National University"
+    family-names: Rahman
+    given-names: "Motiur "
+  -
+    affiliation: "Department of Civil Engineering, Pabna University of Science and Technology"
+    family-names: "Tasnim Nahar"
+    given-names: Tahmina
+  -
+    affiliation: "Department of Civil and Environmental Engineering, Kongju National University"
+    family-names: Kim
+    given-names: Dookie
+cff-version: "1.1.0"
+date-released: 2021-04-05
+doi: "10.1016/j.softx.2021.100751"
+identifiers: 
+  - 
+    type: url
+    value: "https://www.sciencedirect.com/science/article/pii/S2352711021000789"
+keywords: 
+  - "FEM visualization"
+  - "post-processing"
+  - OpenSees
+license: MIT
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/ElsevierSoftwareX/SOFTX-D-21-00063"
+title: "pyGLLE: AFeView: Finite element model (FEM) visualization and post-processing tool for OpenSees Python toolkit for solving the generalized Lugiato–Lefever equation"
+version: "1.0"
+...
